@@ -7,4 +7,4 @@ Provided given set of pivot co-ordinates and scaling factor. This program create
 3. Run the program using the command `python zoom.py`
 
 ## Results
-You should see a window popped up with original and zoomed image.
+Program displays a pop-up window with original and zoomed image.
