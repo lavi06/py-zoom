@@ -4,7 +4,6 @@ import os
 from math import floor
 from math import ceil
 import matplotlib.pyplot as plt
-
 dir = os.path.dirname(__file__)
 filename = os.path.join(dir, 'rabbit.jpg')
 
